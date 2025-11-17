@@ -1,5 +1,5 @@
-librosa==0.9.1
-faster-whisper==0.9.0
+librosa==0.11.0
+git+https://github.com/SYSTRAN/faster-whisper
 pydub==0.25.1
 wavmark
 numpy
